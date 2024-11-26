@@ -1,4 +1,4 @@
-# Solar-Powered Drip Irrigation System
+# Drip Irrigation Using Helianthus Panel
 
 ## Overview
 
